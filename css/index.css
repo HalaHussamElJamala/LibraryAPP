@@ -1,0 +1,11 @@
+h3{
+    position: relative;
+}
+h3::before{
+    content: '';
+    width: 210px;
+    height: 2px;
+    position: absolute;
+    background-color: purple;
+    bottom: -10px;
+}

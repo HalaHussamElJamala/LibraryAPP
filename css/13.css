@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px ;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+  color: black;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid purple;
+    font-family: 'Rubik', sans-serif;
+    margin-left:-35px ;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background-color: purple;
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}
+.main{
+    background: url(./image/num5.jpg)no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h2{
+    font-size: 3rem;
+    font-weight: 700;
+    color:purple;
+    margin-left: -400px;
+}
+.btn1{
+height: 45px;
+width: 30%;
+border: none;
+outline: none;
+background-color: purple;
+color: white;
+border-radius: 60px;
+font-weight: 700;
+margin-left: -400px;
+
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: #000000;
+    
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px ;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+    
+}
+.nav-link:hover{
+  color: black;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid purple;
+    font-family: 'Rubik', sans-serif;
+    margin-left:-35px ;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background-color: purple;
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}

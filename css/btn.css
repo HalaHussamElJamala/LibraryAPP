@@ -1,0 +1,18 @@
+.main h2{
+    font-size: 3rem;
+    font-weight: 700;
+    color:purple;
+    margin-left: -400px;
+}
+.btn1{
+height: 45px;
+width: 30%;
+border: none;
+outline: none;
+background-color: purple;
+color: white;
+border-radius: 60px;
+font-weight: 700;
+margin-left: -400px;
+
+}
